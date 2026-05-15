@@ -1,5 +1,5 @@
 document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Noto+Serif+JP:wght@200;300;400;500&display=swap" rel="stylesheet">\n\
-<link href="https://ユーザー名.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
+<link href="https://ryoen24.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
 <div class="hn-wrap" id="hn-top">\n\
   <header class="hn-header" style="position: relative;">\n\
     <div class="hn-header-inner">\n\
@@ -156,6 +156,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </footer>\n\
 </div>');
 
+window.addEventListener('load', function(){
 // Gallery Crossfade
 document.querySelectorAll('.hn-gallery').forEach(function(gallery){
   var items=gallery.querySelectorAll('.hn-gallery-item');
@@ -195,3 +196,4 @@ var srObs=new IntersectionObserver(function(entries){
   entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('hn-vis');srObs.unobserve(e.target);}});
 },{threshold:0.15});
 document.querySelectorAll('.hn-sr').forEach(function(el){srObs.observe(el);});
+});
