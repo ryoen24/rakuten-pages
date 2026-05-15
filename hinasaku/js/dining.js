@@ -47,7 +47,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       <div class="hn-marquee-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/7999f9b0401c4453be4b2f55c1bdaf7006ace389.47.1.26.2.jpg" alt="食事写真2"></div>\n\
       <div class="hn-marquee-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/a43a9fc1341d7007b1af8aaa8fe206afc2f78c68.47.1.26.2.jpg" alt="食事写真3"></div>\n\
       <div class="hn-marquee-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/3509831a17a4224f33d59990dbe2e300197fc032.47.1.26.2.jpg" alt="食事写真4"></div>\n\
-      <div class="hn-marquee-item" style="display: none;"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0lVZlN.jpeg" alt="食事写真5"></div>\n\
+      <div class="hn-marquee-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0lVZlN.jpeg" alt="食事写真5"></div>\n\
     </div>\n\
   </div>\n\
 \n\
@@ -61,7 +61,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       <div class="hn-gallery">\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/5b8fb157e0d2a88a231596c6c7057120bc871871.47.1.26.2.jpg" alt="夕食 写真1"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/7999f9b0401c4453be4b2f55c1bdaf7006ace389.47.1.26.2.jpg" alt="夕食 写真2"></div>\n\
-        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0lVZlN.jpeg" alt="夕食 写真3"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/08f651aa36677c23c5bca53afe44dbd667b51949.47.1.26.2.jpg" alt="夕食 写真3"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/3509831a17a4224f33d59990dbe2e300197fc032.47.1.26.2.jpg" alt="夕食 写真4"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/2a7e65386c08665b384d00d94953241a978dcdb8.47.9.26.3.jpg" alt="夕食 写真5"></div>\n\
       </div>\n\
@@ -81,7 +81,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     </div>\n\
     <div class="hn-room-slider-wrap hn-sr hn-sr-d1">\n\
       <div class="hn-gallery">\n\
-        \n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0432f9e2a06b8c040565a06ddb587f5a060b6037.47.1.26.2.jpg" alt="朝食 写真1"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/aEHoDP.jpeg" alt="朝食 写真2"></div>\n\
         \n\
         \n\
