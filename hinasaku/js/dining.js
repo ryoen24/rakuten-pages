@@ -14,7 +14,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </header>\n\
 \n\
   <div class="hn-page-hero">\n\
-    <div class="hn-page-hero-bg"></div>\n\
+    <div class="hn-page-hero-bg" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/5b8fb157e0d2a88a231596c6c7057120bc871871.47.1.26.2.jpg&quot;);"></div>\n\
     <div class="hn-page-hero-text">\n\
       <h2>HINASAKU</h2>\n\
       <p class="hn-page-title">食事</p>\n\
