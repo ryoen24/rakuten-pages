@@ -54,7 +54,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       </div>\n\
       <div class="hn-image-area hn-sr hn-sr-d1">\n\
         <div class="hn-slider">\n\
-          <div class="hn-slider-track" style="transform: translateX(-200%);">\n\
+          <div class="hn-slider-track" style="transform: translateX(-100%);">\n\
             <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5cf40962645673b8a43f74beb5538cdb3635950.47.1.26.2.jpg" alt="客室1"></div>\n\
             <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/745201b65efa5756e4e71d5ff70bb6d096cdbb9a.47.1.26.2.jpg" alt="客室2"></div>\n\
             <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/44db5a461021f4e1b1af409b8d2f66a5510840b0.47.1.26.2.jpg" alt="客室3"></div>\n\
@@ -80,7 +80,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       </div>\n\
       <div class="hn-image-area hn-sr hn-sr-d1">\n\
         <div class="hn-slider">\n\
-          <div class="hn-slider-track" style="transform: translateX(-200%);">\n\
+          <div class="hn-slider-track" style="transform: translateX(-100%);">\n\
             <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0432f9e2a06b8c040565a06ddb587f5a060b6037.47.1.26.2.jpg" alt="お食事1"></div>\n\
             <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/08f651aa36677c23c5bca53afe44dbd667b51949.47.1.26.2.jpg" alt="お食事2"></div>\n\
             <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/7999f9b0401c4453be4b2f55c1bdaf7006ace389.47.1.26.2.jpg" alt="お食事3"></div>\n\
