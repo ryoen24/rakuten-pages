@@ -12,7 +12,7 @@ html { scroll-behavior: smooth; }
 
 /* ===== Base ===== */
 .hn-wrap {
-  max-width:950px;
+  width:100%;
   margin:0 auto;
   font-family:'Noto Serif JP','YuMincho','Yu Mincho','Hiragino Mincho ProN',serif;
   color:#3a3a3a;
