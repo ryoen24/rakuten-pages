@@ -40,7 +40,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/f658bfed38946ace1de7711e0fee5d9d42170eec.47.1.26.2.jpg" alt="201室 写真2"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/745201b65efa5756e4e71d5ff70bb6d096cdbb9a.47.1.26.2.jpg" alt="201室 写真3"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/5d7f3600ba2762fc00ffc5eeb5b6f0abde7d9ea0.47.1.26.2.jpg" alt="201室 写真4"></div>\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="201室 写真5"></div>\n\
+        \n\
       </div>\n\
       <div class="hn-gallery-thumbs"></div>\n\
     </div>\n\
@@ -76,9 +76,9 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       <div class="hn-gallery">\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5cf40962645673b8a43f74beb5538cdb3635950.47.1.26.2.jpg" alt="202室 写真1"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/19578b449deefdf8eeeccc2c4309f53abf8e6244.47.1.26.2.jpg" alt="202室 写真2"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="202室 写真3"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="202室 写真4"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="202室 写真5"></div>\n\
+        \n\
+        \n\
+        \n\
       </div>\n\
       <div class="hn-gallery-thumbs"></div>\n\
     </div>\n\
@@ -115,8 +115,8 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/44db5a461021f4e1b1af409b8d2f66a5510840b0.47.1.26.2.jpg" alt="203室 写真1"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/5df465abb91750f7246761df08e606d4eaf329de.47.1.26.2.jpg" alt="203室 写真2"></div>\n\
         <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/87ce85d701837b82421738b40c66a219306755bb.47.1.26.2.jpg" alt="203室 写真3"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="203室 写真4"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="203室 写真5"></div>\n\
+        \n\
+        \n\
       </div>\n\
       <div class="hn-gallery-thumbs"></div>\n\
     </div>\n\
