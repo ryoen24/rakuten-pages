@@ -1,7 +1,7 @@
 document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Noto+Serif+JP:wght@200;300;400;500&display=swap" rel="stylesheet">\n\
 <link href="https://ryoen24.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
 <div class="hn-wrap" id="hn-top">\n\
-  <header class="hn-header" style="position: relative;">\n\
+  <header class="hn-header">\n\
     <div class="hn-header-inner">\n\
       <h1 class="hn-logo"><a href="https://travel.rakuten.co.jp/HOTEL/28299/28299.html">HINASAKU <span class="jp">-ひなさく-</span></a></h1>\n\
       <nav class="hn-nav"><ul>\n\
@@ -14,7 +14,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </header>\n\
 \n\
   <!-- Page Hero -->\n\
-  <div class="hn-page-hero" style="position: relative;">\n\
+  <div class="hn-page-hero">\n\
     <div class="hn-page-hero-bg" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/19aedd35baa27da2de4e9172bb010344d55e5aa7.47.1.26.2.jpg&quot;);"></div>\n\
     <div class="hn-page-hero-text">\n\
       <h2>HINASAKU</h2>\n\
@@ -24,12 +24,12 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </div>\n\
 \n\
   <!-- Intro -->\n\
-  <div class="hn-rooms-intro hn-sr" style="position: relative;">\n\
+  <div class="hn-rooms-intro hn-sr">\n\
     <p>全室に専用露天風呂を完備。<br>伊豆高原の自然を感じながら<br>プライベートな寛ぎの時間をお過ごしください。</p>\n\
   </div>\n\
 \n\
   <!-- ===== 201室 ===== -->\n\
-  <section class="hn-room" id="room201" style="position: relative;">\n\
+  <section class="hn-room" id="room201">\n\
     <div class="hn-room-header hn-sr">\n\
       <div class="hn-room-number">201</div>\n\
       <p class="hn-room-type">露天風呂付き和洋室ツイン</p>\n\
@@ -67,7 +67,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </section>\n\
 \n\
   <!-- ===== 202室 ===== -->\n\
-  <section class="hn-room" id="room202" style="position: relative;">\n\
+  <section class="hn-room" id="room202">\n\
     <div class="hn-room-header hn-sr">\n\
       <div class="hn-room-number">202</div>\n\
       <p class="hn-room-type">露天風呂付きメゾネット和洋室ツイン</p>\n\
@@ -105,7 +105,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </section>\n\
 \n\
   <!-- ===== 203室 ===== -->\n\
-  <section class="hn-room" id="room203" style="position: relative;">\n\
+  <section class="hn-room" id="room203">\n\
     <div class="hn-room-header hn-sr">\n\
       <div class="hn-room-number">203</div>\n\
       <p class="hn-room-type">露天風呂付きメゾネット和洋室ダブル</p>\n\
@@ -148,7 +148,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     <span class="hn-pagetop-arrow">⌃</span>\n\
     TOP\n\
   </a>\n\
-  <footer class="hn-footer hn-sr" style="position: relative;">\n\
+  <footer class="hn-footer hn-sr">\n\
     <div class="hn-footer-logo">HINASAKU <span class="jp">-ひなさく-</span></div>\n\
     <address>〒413-0231 静岡県伊東市富戸1105-15</address>\n\
     <div class="hn-divider"></div>\n\
