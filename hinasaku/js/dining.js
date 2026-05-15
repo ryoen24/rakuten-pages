@@ -1,7 +1,7 @@
 document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Noto+Serif+JP:wght@200;300;400;500&display=swap" rel="stylesheet">\n\
 <link href="https://ryoen24.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
 <div class="hn-wrap" id="hn-top">\n\
-  <header class="hn-header" style="position: relative;">\n\
+  <header class="hn-header">\n\
     <div class="hn-header-inner">\n\
       <h1 class="hn-logo"><a href="https://travel.rakuten.co.jp/HOTEL/28299/28299.html">HINASAKU <span class="jp">-ひなさく-</span></a></h1>\n\
       <nav class="hn-nav"><ul>\n\
@@ -13,8 +13,8 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     </div>\n\
   </header>\n\
 \n\
-  <div class="hn-page-hero" style="position: relative;">\n\
-    <div class="hn-page-hero-bg" style="background-image: url(&quot;sample.png&quot;);"></div>\n\
+  <div class="hn-page-hero">\n\
+    <div class="hn-page-hero-bg"></div>\n\
     <div class="hn-page-hero-text">\n\
       <h2>HINASAKU</h2>\n\
       <p class="hn-page-title">食事</p>\n\
@@ -22,18 +22,18 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     </div>\n\
   </div>\n\
 \n\
-  <div class="hn-rooms-intro hn-sr" style="position: relative;">\n\
+  <div class="hn-rooms-intro hn-sr">\n\
     <p>その時季にいちばん美味しいものを、<br>いちばん美味しい調理法で。<br>伊豆の恵みを心ゆくまでお愉しみください。</p>\n\
   </div>\n\
 \n\
   <!-- 部屋食の説明 -->\n\
-  <section class="hn-room" id="sec-roomdining" style="position: relative;">\n\
+  <section class="hn-room" id="sec-roomdining">\n\
     <div class="hn-room-header hn-sr">\n\
       <div class="hn-room-number" style="font-size:28px;">お部屋で</div>\n\
       <p class="hn-room-type">全室お部屋食でごゆっくり</p>\n\
     </div>\n\
     <div class="hn-room-slider-wrap hn-sr hn-sr-d1">\n\
-      <div class="hn-room-single-img"><img src="sample.png" alt="部屋食"></div>\n\
+      <div class="hn-room-single-img"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/19578b449deefdf8eeeccc2c4309f53abf8e6244.47.1.26.2.jpg" alt="部屋食"></div>\n\
     </div>\n\
     <div class="hn-room-desc hn-sr hn-sr-d2">\n\
       <p>お食事はすべてお部屋にてご用意いたします。<br>誰にも邪魔されない、<br>大切な方との特別なひとときをお過ごしください。</p>\n\
@@ -41,29 +41,29 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </section>\n\
 \n\
   <!-- 食事マーキー -->\n\
-  <div class="hn-marquee hn-sr" id="sec-marquee" style="position: relative;">\n\
+  <div class="hn-marquee hn-sr" id="sec-marquee">\n\
     <div class="hn-marquee-track" id="marquee-dining">\n\
-      <div class="hn-marquee-item"><img src="sample.png" alt="食事写真1"></div>\n\
-      <div class="hn-marquee-item"><img src="sample.png" alt="食事写真2"></div>\n\
-      <div class="hn-marquee-item"><img src="sample.png" alt="食事写真3"></div>\n\
-      <div class="hn-marquee-item"><img src="sample.png" alt="食事写真4"></div>\n\
-      <div class="hn-marquee-item" style="display: none;"><img src="sample.png" alt="食事写真5"></div>\n\
+      <div class="hn-marquee-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/4eee49f61d6c5bc44699a19bfc1b014d1e777c80.47.9.26.3.jpeg" alt="食事写真1"></div>\n\
+      <div class="hn-marquee-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/7999f9b0401c4453be4b2f55c1bdaf7006ace389.47.1.26.2.jpg" alt="食事写真2"></div>\n\
+      <div class="hn-marquee-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/a43a9fc1341d7007b1af8aaa8fe206afc2f78c68.47.1.26.2.jpg" alt="食事写真3"></div>\n\
+      <div class="hn-marquee-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/3509831a17a4224f33d59990dbe2e300197fc032.47.1.26.2.jpg" alt="食事写真4"></div>\n\
+      <div class="hn-marquee-item" style="display: none;"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0lVZlN.jpeg" alt="食事写真5"></div>\n\
     </div>\n\
   </div>\n\
 \n\
   <!-- 夕食 -->\n\
-  <section class="hn-room" id="sec-dinner" style="position: relative;">\n\
+  <section class="hn-room" id="sec-dinner">\n\
     <div class="hn-room-header hn-sr">\n\
       <div class="hn-room-number">夕食</div>\n\
       <p class="hn-room-type">Dinner</p>\n\
     </div>\n\
     <div class="hn-room-slider-wrap hn-sr hn-sr-d1">\n\
       <div class="hn-gallery">\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="夕食 写真1"></div>\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="夕食 写真2"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="夕食 写真3"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="夕食 写真4"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="夕食 写真5"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/5b8fb157e0d2a88a231596c6c7057120bc871871.47.1.26.2.jpg" alt="夕食 写真1"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/7999f9b0401c4453be4b2f55c1bdaf7006ace389.47.1.26.2.jpg" alt="夕食 写真2"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0lVZlN.jpeg" alt="夕食 写真3"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/3509831a17a4224f33d59990dbe2e300197fc032.47.1.26.2.jpg" alt="夕食 写真4"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/2a7e65386c08665b384d00d94953241a978dcdb8.47.9.26.3.jpg" alt="夕食 写真5"></div>\n\
       </div>\n\
       <div class="hn-gallery-thumbs"></div>\n\
     </div>\n\
@@ -74,18 +74,18 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </section>\n\
 \n\
   <!-- 朝食 -->\n\
-  <section class="hn-room" id="sec-breakfast" style="position: relative;">\n\
+  <section class="hn-room" id="sec-breakfast">\n\
     <div class="hn-room-header hn-sr">\n\
       <div class="hn-room-number">朝食</div>\n\
       <p class="hn-room-type">Breakfast</p>\n\
     </div>\n\
     <div class="hn-room-slider-wrap hn-sr hn-sr-d1">\n\
       <div class="hn-gallery">\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="朝食 写真1"></div>\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="朝食 写真2"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="朝食 写真3"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="朝食 写真4"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="朝食 写真5"></div>\n\
+        \n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/aEHoDP.jpeg" alt="朝食 写真2"></div>\n\
+        \n\
+        \n\
+        \n\
       </div>\n\
       <div class="hn-gallery-thumbs"></div>\n\
     </div>\n\
@@ -99,7 +99,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     <span class="hn-pagetop-arrow">⌃</span>\n\
     TOP\n\
   </a>\n\
-  <footer class="hn-footer hn-sr" style="position: relative;">\n\
+  <footer class="hn-footer hn-sr">\n\
     <div class="hn-footer-logo">HINASAKU <span class="jp">-ひなさく-</span></div>\n\
     <address>〒413-0231 静岡県伊東市富戸1105-15</address>\n\
     <div class="hn-divider"></div>\n\
@@ -107,6 +107,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </footer>\n\
 </div>');
 
+window.addEventListener('load', function(){
 // Gallery Crossfade
 document.querySelectorAll('.hn-gallery').forEach(function(gallery){
   var items=gallery.querySelectorAll('.hn-gallery-item');
@@ -114,8 +115,8 @@ document.querySelectorAll('.hn-gallery').forEach(function(gallery){
   var vis=[];
   items.forEach(function(it){
     var img=it.querySelector('img');
-    if(img&&img.src&&img.src.indexOf('sample.png')===-1){it.style.display='';vis.push(it);}
-    else{it.style.display='none';it.classList.remove('active');}
+    if(img&&img.src){it.style.display='';vis.push(it);}
+    else{it.style.display='none';}
   });
   if(vis.length>0&&!vis.some(function(v){return v.classList.contains('active');})){vis[0].classList.add('active');}
   if(thumbsC){
@@ -147,7 +148,7 @@ document.querySelectorAll('.hn-marquee-track').forEach(function(track){
   var vis=[];
   origItems.forEach(function(it){
     var img=it.querySelector('img');
-    if(img&&img.src&&img.src.indexOf('sample.png')===-1){it.style.display='';vis.push(it);}
+    if(img&&img.src){it.style.display='';vis.push(it);}
     else{it.style.display='none';}
   });
   if(vis.length>0){
@@ -159,3 +160,4 @@ var srObs=new IntersectionObserver(function(entries){
   entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('hn-vis');srObs.unobserve(e.target);}});
 },{threshold:0.15});
 document.querySelectorAll('.hn-sr').forEach(function(el){srObs.observe(el);});
+});
