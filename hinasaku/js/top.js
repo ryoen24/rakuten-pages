@@ -1,7 +1,7 @@
 document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Noto+Serif+JP:wght@200;300;400;500&display=swap" rel="stylesheet">\n\
 <link href="https://ryoen24.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
 <div class="hn-wrap" id="hn-top">\n\
-  <header class="hn-header" style="position: relative;">\n\
+  <header class="hn-header">\n\
     <div class="hn-header-inner">\n\
       <h1 class="hn-logo"><a href="https://travel.rakuten.co.jp/HOTEL/28299/28299.html">HINASAKU <span class="jp">-ひなさく-</span></a></h1>\n\
       <nav class="hn-nav"><ul>\n\
@@ -13,12 +13,12 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     </div>\n\
   </header>\n\
 \n\
-  <div class="hn-mainvis" style="position: relative;">\n\
+  <div class="hn-mainvis">\n\
     <div class="hn-mainvis-slides slides-2">\n\
-      <div class="hn-mainvis-slide" style="background-image: url(&quot;sample.png&quot;);"></div>\n\
-      <div class="hn-mainvis-slide" style="background-image: url(&quot;sample.png&quot;);"></div>\n\
-      <div class="hn-mainvis-slide" style="background-image: url(&quot;sample.png&quot;);"></div>\n\
-      <div class="hn-mainvis-slide" style="background-image: url(&quot;sample.png&quot;);"></div>\n\
+      <div class="hn-mainvis-slide" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/dd51b5faf17869deadccdbb2913fa0824c897f80.47.1.26.2.jpg&quot;);"></div>\n\
+      <div class="hn-mainvis-slide" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/9d5bef22e0e4accbd94d1a73b7a30373256543f9.47.1.26.2.jpg&quot;);"></div>\n\
+      <div class="hn-mainvis-slide" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5de3756f9a36ea4cb9a5bd466b948d749627df6.47.1.26.2.jpg&quot;);"></div>\n\
+      <div class="hn-mainvis-slide"></div>\n\
     </div>\n\
     <div class="hn-mainvis-overlay">\n\
       <div class="hn-mainvis-logo">HINASAKU</div>\n\
@@ -28,21 +28,21 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
 \n\
   </div>\n\
 \n\
-  <section class="hn-concept" id="concept" style="position: relative;">\n\
-    <div class="hn-concept-bg"><img src="sample.png" alt="コンセプト背景"></div>\n\
+  <section class="hn-concept" id="concept">\n\
+    <div class="hn-concept-bg"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/21812db630456bfe93094a6208dbc02d596280e7.47.1.26.2.jpg" alt="コンセプト背景"></div>\n\
     <div class="hn-concept-text hn-sr">\n\
       <h2>日常を離れ、<br>自然に包まれる安らぎのとき</h2>\n\
       <div class="hn-divider"></div>\n\
       <p>伊豆高原の豊かな緑に抱かれた小さな隠れ宿<br>「HINASAKU」で出会えるのは<br>四季折々に移ろう美しい自然と<br>心からくつろげる静かな時間<br><br>大切な人と過ごす、かけがえのないひとときを<br>どうぞごゆっくりお愉しみください</p>\n\
     </div>\n\
     <div class="hn-concept-photos">\n\
-      <div class="hn-concept-photo p1 hn-sr"><img src="sample.png" alt="ひなさくの風景"></div>\n\
-      <div class="hn-concept-photo p2 hn-sr hn-sr-d1"><img src="sample.png" alt="ひなさくの風景"></div>\n\
-      <div class="hn-concept-photo p3 hn-sr hn-sr-d2"><img src="sample.png" alt="ひなさくの風景"></div>\n\
+      <div class="hn-concept-photo p1 hn-sr"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/73650ea9193b5a11e68f71978d8bf274ca4a3282.47.1.26.2.jpg" alt="ひなさくの風景"></div>\n\
+      <div class="hn-concept-photo p2 hn-sr hn-sr-d1"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/693d56f88783515a44169e9850154e7153744e6f.47.1.26.2.jpg" alt="ひなさくの風景"></div>\n\
+      <div class="hn-concept-photo p3 hn-sr hn-sr-d2"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/5b8fb157e0d2a88a231596c6c7057120bc871871.47.1.26.2.jpg" alt="ひなさくの風景"></div>\n\
     </div>\n\
   </section>\n\
 \n\
-  <section class="hn-section hn-rooms" style="position: relative;">\n\
+  <section class="hn-section hn-rooms">\n\
     <div class="hn-section-inner">\n\
       <div class="hn-title-area hn-sr">\n\
         <h2 class="hn-title hn-title-lg">部屋</h2>\n\
@@ -54,22 +54,22 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       </div>\n\
       <div class="hn-image-area hn-sr hn-sr-d1">\n\
         <div class="hn-slider">\n\
-          <div class="hn-slider-track" style="transform: translateX(-100%);">\n\
-            <div class="hn-slider-item"><img src="sample.png" alt="客室1"></div>\n\
-            <div class="hn-slider-item"><img src="sample.png" alt="客室2"></div>\n\
-            <div class="hn-slider-item"><img src="sample.png" alt="客室3"></div>\n\
-            <div class="hn-slider-item"><img src="sample.png" alt="客室4"></div>\n\
+          <div class="hn-slider-track" style="transform: translateX(0%);">\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/19578b449deefdf8eeeccc2c4309f53abf8e6244.47.1.26.2.jpg" alt="客室1"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5cf40962645673b8a43f74beb5538cdb3635950.47.1.26.2.jpg" alt="客室2"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/73650ea9193b5a11e68f71978d8bf274ca4a3282.47.1.26.2.jpg" alt="客室3"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/44db5a461021f4e1b1af409b8d2f66a5510840b0.47.1.26.2.jpg" alt="客室4"></div>\n\
           </div>\n\
-          <button class="hn-slider-arrow prev" aria-label="前へ">❮</button>\n\
-          <button class="hn-slider-arrow next" aria-label="次へ">❯</button>\n\
+          <button class="hn-slider-arrow prev" aria-label="前へ" style="display: none;">❮</button>\n\
+          <button class="hn-slider-arrow next" aria-label="次へ" style="display: none;">❯</button>\n\
         </div>\n\
 \n\
       </div>\n\
     </div>\n\
   </section>\n\
 \n\
-  <section class="hn-section hn-dining" style="position: relative;">\n\
-    <div class="hn-dining-header" style="background-image: url(&quot;sample.png&quot;);">\n\
+  <section class="hn-section hn-dining">\n\
+    <div class="hn-dining-header">\n\
       <div class="hn-title-area"><h2 class="hn-title">食事<span class="en">Dining</span></h2></div>\n\
     </div>\n\
     <div class="hn-dining-body">\n\
@@ -80,10 +80,10 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       </div>\n\
       <div class="hn-image-area hn-sr hn-sr-d1">\n\
         <div class="hn-slider">\n\
-          <div class="hn-slider-track" style="transform: translateX(-100%);">\n\
-            <div class="hn-slider-item"><img src="sample.png" alt="お食事1"></div>\n\
-            <div class="hn-slider-item"><img src="sample.png" alt="お食事2"></div>\n\
-            <div class="hn-slider-item" style=""><img src="sample.png" alt="お食事3"></div>\n\
+          <div class="hn-slider-track" style="transform: translateX(0%);">\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/YUUaZb.jpeg" alt="お食事1"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0432f9e2a06b8c040565a06ddb587f5a060b6037.47.1.26.2.jpg" alt="お食事2"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/08f651aa36677c23c5bca53afe44dbd667b51949.47.1.26.2.jpg" alt="お食事3"></div>\n\
           </div>\n\
           <button class="hn-slider-arrow prev" aria-label="前へ">❮</button>\n\
           <button class="hn-slider-arrow next" aria-label="次へ">❯</button>\n\
@@ -93,11 +93,11 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     </div>\n\
   </section>\n\
 \n\
-  <section class="hn-image-links hn-sr" style="position: relative;">\n\
-    <a href="https://travel.rakuten.co.jp/HOTEL/28299/gallery.html" class="hn-image-link" style="background-image: url(&quot;sample.png&quot;);">\n\
+  <section class="hn-image-links hn-sr">\n\
+    <a href="https://travel.rakuten.co.jp/HOTEL/28299/gallery.html" class="hn-image-link" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/361e332d9aade961afef4407edcb2f010f9bdf0d.47.1.26.2.jpg&quot;);">\n\
       <div class="hn-image-link-caption"><p class="hn-image-link-title">フォトギャラリー<span class="en">PHOTO GALLERY</span></p></div>\n\
     </a>\n\
-    <a href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/28299" class="hn-image-link" style="background-image: url(&quot;sample.png&quot;);">\n\
+    <a href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/28299" class="hn-image-link" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5de3756f9a36ea4cb9a5bd466b948d749627df6.47.1.26.2.jpg&quot;);">\n\
       <div class="hn-image-link-caption"><p class="hn-image-link-title">宿泊プラン<span class="en">RESERVATION</span></p></div>\n\
     </a>\n\
   </section>\n\
@@ -107,7 +107,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     <span class="hn-pagetop-arrow">⌃</span>\n\
     TOP\n\
   </a>\n\
-  <footer class="hn-footer hn-sr" style="position: relative;">\n\
+  <footer class="hn-footer hn-sr">\n\
     <div class="hn-footer-logo">HINASAKU <span class="jp">-ひなさく-</span></div>\n\
     <address>〒413-0231 静岡県伊東市富戸1105-15</address>\n\
     <div class="hn-divider"></div>\n\
@@ -115,6 +115,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </footer>\n\
 </div>');
 
+window.addEventListener('load', function(){
 // Slider
 document.querySelectorAll('.hn-slider').forEach(function(slider){
   var track=slider.querySelector('.hn-slider-track');
@@ -136,3 +137,4 @@ var srObs=new IntersectionObserver(function(entries){
   entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('hn-vis');srObs.unobserve(e.target);}});
 },{threshold:0.15});
 document.querySelectorAll('.hn-sr').forEach(function(el){srObs.observe(el);});
+});
