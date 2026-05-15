@@ -1,5 +1,5 @@
 document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Noto+Serif+JP:wght@200;300;400;500&display=swap" rel="stylesheet">\n\
-<link href="https://ryoen24.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
+<link href="https://ユーザー名.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
 <div class="hn-wrap" id="hn-top">\n\
   <header class="hn-header" style="position: relative;">\n\
     <div class="hn-header-inner">\n\
@@ -163,8 +163,8 @@ document.querySelectorAll('.hn-gallery').forEach(function(gallery){
   var vis=[];
   items.forEach(function(it){
     var img=it.querySelector('img');
-    if(img&&img.src&&img.src.indexOf('sample.png')===-1){it.style.display='';vis.push(it);}
-    else{it.style.display='none';it.classList.remove('active');}
+    if(img&&img.src){it.style.display='';vis.push(it);}
+    else{it.style.display='none';}
   });
   if(vis.length>0&&!vis.some(function(v){return v.classList.contains('active');})){vis[0].classList.add('active');}
   if(thumbsC){
