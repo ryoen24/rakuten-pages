@@ -14,10 +14,10 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
   </header>\n\
 \n\
   <div class="hn-mainvis">\n\
-    <div class="hn-mainvis-slides slides-2">\n\
+    <div class="hn-mainvis-slides slides-3">\n\
       <div class="hn-mainvis-slide" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/dd51b5faf17869deadccdbb2913fa0824c897f80.47.1.26.2.jpg&quot;);"></div>\n\
       <div class="hn-mainvis-slide" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/9d5bef22e0e4accbd94d1a73b7a30373256543f9.47.1.26.2.jpg&quot;);"></div>\n\
-      <div class="hn-mainvis-slide" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5de3756f9a36ea4cb9a5bd466b948d749627df6.47.1.26.2.jpg&quot;);"></div>\n\
+      <div class="hn-mainvis-slide"></div>\n\
       <div class="hn-mainvis-slide"></div>\n\
     </div>\n\
     <div class="hn-mainvis-overlay">\n\
@@ -55,13 +55,13 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       <div class="hn-image-area hn-sr hn-sr-d1">\n\
         <div class="hn-slider">\n\
           <div class="hn-slider-track" style="transform: translateX(0%);">\n\
-            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/19578b449deefdf8eeeccc2c4309f53abf8e6244.47.1.26.2.jpg" alt="客室1"></div>\n\
-            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5cf40962645673b8a43f74beb5538cdb3635950.47.1.26.2.jpg" alt="客室2"></div>\n\
-            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/73650ea9193b5a11e68f71978d8bf274ca4a3282.47.1.26.2.jpg" alt="客室3"></div>\n\
-            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/44db5a461021f4e1b1af409b8d2f66a5510840b0.47.1.26.2.jpg" alt="客室4"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5cf40962645673b8a43f74beb5538cdb3635950.47.1.26.2.jpg" alt="客室1"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/745201b65efa5756e4e71d5ff70bb6d096cdbb9a.47.1.26.2.jpg" alt="客室2"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/44db5a461021f4e1b1af409b8d2f66a5510840b0.47.1.26.2.jpg" alt="客室3"></div>\n\
+            \n\
           </div>\n\
-          <button class="hn-slider-arrow prev" aria-label="前へ" style="display: none;">❮</button>\n\
-          <button class="hn-slider-arrow next" aria-label="次へ" style="display: none;">❯</button>\n\
+          <button class="hn-slider-arrow prev" aria-label="前へ">❮</button>\n\
+          <button class="hn-slider-arrow next" aria-label="次へ">❯</button>\n\
         </div>\n\
 \n\
       </div>\n\
@@ -81,9 +81,9 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
       <div class="hn-image-area hn-sr hn-sr-d1">\n\
         <div class="hn-slider">\n\
           <div class="hn-slider-track" style="transform: translateX(0%);">\n\
-            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/YUUaZb.jpeg" alt="お食事1"></div>\n\
-            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0432f9e2a06b8c040565a06ddb587f5a060b6037.47.1.26.2.jpg" alt="お食事2"></div>\n\
-            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/08f651aa36677c23c5bca53afe44dbd667b51949.47.1.26.2.jpg" alt="お食事3"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/0432f9e2a06b8c040565a06ddb587f5a060b6037.47.1.26.2.jpg" alt="お食事1"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/08f651aa36677c23c5bca53afe44dbd667b51949.47.1.26.2.jpg" alt="お食事2"></div>\n\
+            <div class="hn-slider-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/7999f9b0401c4453be4b2f55c1bdaf7006ace389.47.1.26.2.jpg" alt="お食事3"></div>\n\
           </div>\n\
           <button class="hn-slider-arrow prev" aria-label="前へ">❮</button>\n\
           <button class="hn-slider-arrow next" aria-label="次へ">❯</button>\n\
