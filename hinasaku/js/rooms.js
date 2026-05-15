@@ -1,11 +1,11 @@
 document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Noto+Serif+JP:wght@200;300;400;500&display=swap" rel="stylesheet">\n\
-<link href="https://ryoen24.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
+<link href="https://ユーザー名.github.io/rakuten-pages/hinasaku/css/style.css" rel="stylesheet">\n\
 <div class="hn-wrap" id="hn-top">\n\
   <header class="hn-header" style="position: relative;">\n\
     <div class="hn-header-inner">\n\
       <h1 class="hn-logo"><a href="https://travel.rakuten.co.jp/HOTEL/28299/28299.html">HINASAKU <span class="jp">-ひなさく-</span></a></h1>\n\
       <nav class="hn-nav"><ul>\n\
-        <li><a href="https://travel.rakuten.co.jp/HOTEL/28299/28299.html">ホーム<span class="en">Home</span></a></li>\n\
+        <li><a href="https://travel.rakuten.co.jp/HOTEL/28299/">ホーム<span class="en">Home</span></a></li>\n\
         <li><a href="#" class="active">部屋<span class="en">Rooms</span></a></li>\n\
         <li><a href="#">食事<span class="en">Dining</span></a></li>\n\
         <li><a href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/28299">宿泊プラン<span class="en">Reservation</span></a></li>\n\
@@ -15,7 +15,7 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
 \n\
   <!-- Page Hero -->\n\
   <div class="hn-page-hero" style="position: relative;">\n\
-    <div class="hn-page-hero-bg" style="background-image: url(&quot;sample.png&quot;);"></div>\n\
+    <div class="hn-page-hero-bg" style="background-image: url(&quot;https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/19aedd35baa27da2de4e9172bb010344d55e5aa7.47.1.26.2.jpg&quot;);"></div>\n\
     <div class="hn-page-hero-text">\n\
       <h2>HINASAKU</h2>\n\
       <p class="hn-page-title">部屋</p>\n\
@@ -36,10 +36,10 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     </div>\n\
     <div class="hn-room-slider-wrap hn-sr hn-sr-d1">\n\
       <div class="hn-gallery">\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="201室 写真1"></div>\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="201室 写真2"></div>\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="201室 写真3"></div>\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="201室 写真4"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/73650ea9193b5a11e68f71978d8bf274ca4a3282.47.1.26.2.jpg" alt="201室 写真1"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/f658bfed38946ace1de7711e0fee5d9d42170eec.47.1.26.2.jpg" alt="201室 写真2"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/745201b65efa5756e4e71d5ff70bb6d096cdbb9a.47.1.26.2.jpg" alt="201室 写真3"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/5d7f3600ba2762fc00ffc5eeb5b6f0abde7d9ea0.47.1.26.2.jpg" alt="201室 写真4"></div>\n\
         <div class="hn-gallery-item" style=""><img src="sample.png" alt="201室 写真5"></div>\n\
       </div>\n\
       <div class="hn-gallery-thumbs"></div>\n\
@@ -74,8 +74,8 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     </div>\n\
     <div class="hn-room-slider-wrap hn-sr hn-sr-d1">\n\
       <div class="hn-gallery">\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="202室 写真1"></div>\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="202室 写真2"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/b5cf40962645673b8a43f74beb5538cdb3635950.47.1.26.2.jpg" alt="202室 写真1"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/19578b449deefdf8eeeccc2c4309f53abf8e6244.47.1.26.2.jpg" alt="202室 写真2"></div>\n\
         <div class="hn-gallery-item" style=""><img src="sample.png" alt="202室 写真3"></div>\n\
         <div class="hn-gallery-item" style=""><img src="sample.png" alt="202室 写真4"></div>\n\
         <div class="hn-gallery-item" style=""><img src="sample.png" alt="202室 写真5"></div>\n\
@@ -112,9 +112,9 @@ document.write('<link href="https://fonts.googleapis.com/css2?family=EB+Garamond
     </div>\n\
     <div class="hn-room-slider-wrap hn-sr hn-sr-d1">\n\
       <div class="hn-gallery">\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="203室 写真1"></div>\n\
-        <div class="hn-gallery-item"><img src="sample.png" alt="203室 写真2"></div>\n\
-        <div class="hn-gallery-item" style=""><img src="sample.png" alt="203室 写真3"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/44db5a461021f4e1b1af409b8d2f66a5510840b0.47.1.26.2.jpg" alt="203室 写真1"></div>\n\
+        <div class="hn-gallery-item"><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/5df465abb91750f7246761df08e606d4eaf329de.47.1.26.2.jpg" alt="203室 写真2"></div>\n\
+        <div class="hn-gallery-item" style=""><img src="https://img.travel.rakuten.co.jp/share/image_up/28299/LARGE/87ce85d701837b82421738b40c66a219306755bb.47.1.26.2.jpg" alt="203室 写真3"></div>\n\
         <div class="hn-gallery-item" style=""><img src="sample.png" alt="203室 写真4"></div>\n\
         <div class="hn-gallery-item" style=""><img src="sample.png" alt="203室 写真5"></div>\n\
       </div>\n\
